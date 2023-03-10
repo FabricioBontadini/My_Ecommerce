@@ -1,0 +1,9 @@
+@use '../../sass/variables' as *;
+
+body {
+    background-color:$black-dnc;
+    h1{
+        color: $white-dnc;
+        background-color: $blue-dnc;
+    }
+}
